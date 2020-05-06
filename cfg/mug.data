@@ -1,0 +1,6 @@
+classes= 1
+train  = mug_data/train.txt
+valid  = mug_data/valid.txt
+names = data/mug.names
+backup = mug_backup
+
